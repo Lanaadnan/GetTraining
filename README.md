@@ -1,2 +1,3 @@
 # GetTraining
 Lana training 
+notes 
