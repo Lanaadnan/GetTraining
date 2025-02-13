@@ -1,4 +1,3 @@
 # GetTraining
 Lana training 
-
 notes 
